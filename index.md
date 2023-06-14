@@ -18,5 +18,4 @@ I am a Ph.D. student at Harvard University
 - Swimming
 
 ## News
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[June, 14 2023]** This website was created!
