@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Harvard University
+I am a Ph.D. student at Harvard University.
 
 ## Research Interests
 
@@ -16,6 +16,7 @@ I am a Ph.D. student at Harvard University
 - Gaming
 - Cello
 - Swimming
+- Computer Science Projects
 
 ## News
-- **[June, 14 2023]** This website was created!
+- **[June 14, 2023]** This website was created!
