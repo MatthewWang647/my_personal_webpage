@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Harvard University
 
 ## Research Interests
 
@@ -13,8 +13,8 @@ I am a Ph.D. student at ...
 
 ## Hobbies
 
-- Guitar
-- Tennis
+- Gaming
+- Cello
 - Swimming
 
 ## News
