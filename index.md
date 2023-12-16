@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Harvard University.
+I am a student at Klein Cain High School.
 
 ## Research Interests
 
