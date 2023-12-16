@@ -1,8 +1,8 @@
 # Basic Information 
 title: Matthew Wang
-position: Ph.D. Student
-affiliation: Software Engineer at Apple
-email: matthewwang@apple.com
+position: Student
+affiliation: Klein Cain High School
+email: mwan608591@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -21,7 +21,7 @@ twitter: https://twitter.com/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/wang,.png
-favicon: ./assets/img/bjor.jpg
+favicon: ./assets/img/
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
